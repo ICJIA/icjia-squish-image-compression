@@ -2,6 +2,12 @@
 
 A simple web application to compress images using browser-based image compression.
 
+Under construction.
+
+## Site
+
+https://squish.icjia.app/
+
 ## Installation
 
 1. Clone or download this repository.
@@ -13,6 +19,10 @@ A simple web application to compress images using browser-based image compressio
    cd icjia-smush-image-compression
    ```
 3. Open the `index.html` file in your browser.
+
+## Credits
+
+https://squish.addy.ie/
 
 ## License
 
